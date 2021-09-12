@@ -1,2 +1,2 @@
 #!/bin/sh
-cd popular && npm run serve
+cd app && npm run serve

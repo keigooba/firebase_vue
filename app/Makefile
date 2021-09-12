@@ -22,3 +22,8 @@ all: deps
 # 	./$(BINARY_NAME)
 deps:
 	$(NPMCMD) @vue/cli
+	vue add vuetify
+	$(NPMCMD) vuex --save
+	$(NPMCMD) vue-router
+	$(NPMCMD) firebase
+	$(NPMCMD) @mdi/font -D

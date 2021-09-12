@@ -1,9 +1,8 @@
 # firebase_vue
 
-[popular](https://github.com/keigooba/popular)をVueでSPA化<br />
 コンポーネント分割はatomic designを採用
 
-サイト URL:
+サイト URL: https://my-address-pj-442d6.web.app
 
 ## 概要
 

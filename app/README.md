@@ -1,4 +1,4 @@
-# popular
+# app
 
 ## Project setup
 ```
